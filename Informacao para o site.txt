@@ -1,0 +1,10 @@
+KIOBI GAMES
+
+fontes de texto:
+- Share Tech
+- Share Tech Mono (titulo)
+
+Cores:
+- #000123 (azul escuro)
+- #ffffff (branco)
+- #ff0f7b (rosa)
